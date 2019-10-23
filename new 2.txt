@@ -1,6 +1,6 @@
 <html>
       <header>
-	   <title> Arquivo da turma B (turma legal)</title>
+	   <title> Arquivo da turma B</title>
 	   </header>
 	  
 <body>
