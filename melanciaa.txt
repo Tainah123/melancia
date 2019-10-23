@@ -1,4 +1,4 @@
-<html>
+﻿<html>
       <head>
 <<<<<<< HEAD
 	   <title> Arquivo da turma B (turma legal) (sai fora turma A)</title>
@@ -12,8 +12,8 @@
 	
 =======
 		
->>>>>>> ed3dedc50c12f2b550e8de07f366273760eb5db6
-		<p>Arquivo teste da Turma B</p>
+>>>>>>> 
+		<p>Arquivo teste da Turma B (quebra de linha)</p>
 </body>
 
 </html>
