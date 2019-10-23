@@ -1,7 +1,10 @@
 <html>
-      <header>
-	   <title> Arquivo da turma B (turma legal)</title>
-	   </header>
+      <head>
+<<<<<<< HEAD
+	   <title> Arquivo da turma B (turma legal) (sai fora turma A)</title>
+=======
+	   
+	   </head>
 	  
 <body>
 		<h1> Esse é o arquivo da turma B</h1>
